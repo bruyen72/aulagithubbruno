@@ -211,11 +211,11 @@ brunopp/
 
 **Informações do Git Config:**
 - Name: Bruno Ruthes Pinheiro De Oliveira - FATEC - Cuiaba/MT
-- Email: bruno.ruthes@alunosenai.mt
+- Email: bruno.r.oliveira12@aluno.senai.br
 
 **Commits assinados com:**
 ```
-Committer: Bruno Ruthes Pinheiro De Oliveira - FATEC - Cuiaba/MT <bruno.ruthes@alunosenai.mt>
+Committer: Bruno Ruthes Pinheiro De Oliveira - FATEC - Cuiaba/MT <bruno.r.oliveira12@aluno.senai.br>
 ```
 
 **Link do Repositório:** https://github.com/bruyen72/aulagithubbruno
